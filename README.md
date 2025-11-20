@@ -1,5 +1,4 @@
 # plant-care-guide
-Give information for farmers about pesticides,soil,and market price for perticular plants
 <!DOCTYPE html>
 <html lang="en">
 <head>
