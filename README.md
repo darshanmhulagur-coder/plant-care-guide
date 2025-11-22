@@ -36,6 +36,7 @@ For more detailed plant care tips, visit
 <option value="green_chilly">Green Chilly</option>
 <option value="onion">Onion</option>
 <option value="broccoli">broccoli</option>
+<option value="capcicum">capcicum</option>
 </select>
 <button onclick="showInfo()">Get Information</button>
 <div id="plant-info" class="info" style="display: none;">
