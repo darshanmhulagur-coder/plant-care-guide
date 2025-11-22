@@ -112,7 +112,15 @@ const plantData = {
     ],
     soil: "loamy, well-draining soil rich in organic matter, with a slightly acidic pH between 6.0 and 7.0.",
     price: "Approx. ₹20-₹40 per kilogram."
-  },
+      },
+    capcicum: {
+    pesticides: [
+      { name: "neem oil", type: "organic", use: "Aphids, leafhoppers, psyllids, whiteflies, scale insects, and other homopterous pests." },
+      { name: "Chlorantraniliprole", type: "organic", use: "to control lepidopteran pests like fruit borers, which cause damage to the fruits."}
+    ],
+    soil: "Well drained loamy soil rich in organic matter with pH 6.0-7.5.",
+    price: "Approx. ₹60-₹80 per kilogram."
+  }
 };
 
 function showInfo() {
