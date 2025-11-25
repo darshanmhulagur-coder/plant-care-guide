@@ -1,5 +1,4 @@
 # plant-care-guide
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
